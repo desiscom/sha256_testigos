@@ -25,3 +25,13 @@ f97a2d2df7512635374ded35bbdf5517e1d9ceb71b246d8725b45b12847eaf9d p11
 
 block chain btc
 000000000000000000257fe0ebb3e3fe1ecef1d8c5a2c5eb9aef9cf2903ca14b
+
+
+hash sha256 Cadena de  todos los hash
+SHA256: 
+f447172bfcf9e9b08d3598a36cc6b94f231d608945cc3d92420c49e24bbe3327
+
+Fecha y hora consistentes con el registro de esta informacion
+11:53pm - 09Abr2019 - JOSE DANIEL SOLIS ARROYO - MEXICO.
+
+Saludos ;)
